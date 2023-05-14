@@ -1,0 +1,21 @@
+.app-container{
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+
+}
+
+.add-button{
+  background-color: lightgreen;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.animal-list-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
